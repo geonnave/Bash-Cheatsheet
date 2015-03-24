@@ -318,3 +318,5 @@ CTRL-K | Cut everything after the cursor
 CTRL-Y | Paste the last thing to be cut
 CTRL-_ | Undo
 CTRL-L | Clears terminal screen
+ALT-F  | Move cursor one word forward
+ALT-B  | Move cursor one word backwards
